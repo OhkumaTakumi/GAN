@@ -1,6 +1,6 @@
 # GAN
 
-![サンプル](https://github.com/OhkumaTakumi/GAN/issues/1#issue-430759744)
+![BEGANによる花画像の生成](https://user-images.githubusercontent.com/40655712/55773037-d598d480-5ac9-11e9-94e7-e2af5aedb54e.jpg)
 
 google colaboratory上で3種類のGAN(DCGAN, BEGAN, WGAN-gp)を実装しました。  
 
